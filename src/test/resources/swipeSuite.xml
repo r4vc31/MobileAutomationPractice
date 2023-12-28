@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SwipeSuite">
+    <test name="SwipeTest">
+        <classes>
+            <class name="com.globant.tests.SwipeTest" />
+        </classes>
+    </test>
+</suite>

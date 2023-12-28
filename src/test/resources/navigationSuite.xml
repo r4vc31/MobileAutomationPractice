@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NavigationSuite">
+    <test name="NavigationTest">
+        <classes>
+            <class name="com.globant.tests.NavigationTest" />
+        </classes>
+    </test>
+</suite>
